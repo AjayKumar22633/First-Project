@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_3875785 Length: 20
+
+
+>Homo sapiens BACH transcriptional regulator 2 (BACH2), transcript variant 1, mRNA.
+Sequence ID: NM_021813.4 Length: 9215
+Range 1: 1093 to 1112
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1     GAGTAACAGCTTGGCAGTGT  20
+             ||||||||||||||||||||
+Sbjct  1112  GAGTAACAGCTTGGCAGTGT  1093
+
+
+
+
+
