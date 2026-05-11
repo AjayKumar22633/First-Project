@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_7145621 Length: 20
+
+
+>PREDICTED: Homo sapiens PR/SET domain 1 (PRDM1), transcript variant X6, mRNA
+Sequence ID: XM_011536064.4 Length: 4644
+Range 1: 141 to 160
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  1    GAGCTTCACCACTTCATTGA  20
+            ||||||||||||||||||||
+Sbjct  141  GAGCTTCACCACTTCATTGA  160
+
+
+
+
+
